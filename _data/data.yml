@@ -65,7 +65,9 @@ experiences:
         Technical Lead on the Cloud Engineering team working in and towards a hybrid cloud model that can be both attainable and innovative 
         to improve the contract and support both our internal customers and external customers. 
           - Administered, configured, and provided demonstrations to CMS around DRaaS using VMware Cloud on AWS and VMware on-premises solutions [vCenter, Site-Recovery Manager, NSX]. 
-          - Bullet point
+          - vRealize Suite 2019 deployment for use in the ongoing automation initiative to facilitate virtual machine provisioning and day-2 activities.
+            - vRA components deployed:  [vRealize] Automation, Identity Manger, Lifecyle Manger and running in Kubernetes
+            - Integrations completed:  Ansible, GitHub, GitLab, AWS, vSphere, CloudFormation, Infoblox 
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
