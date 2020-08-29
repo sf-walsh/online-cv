@@ -67,16 +67,32 @@ experiences:
           - Administered, configured, and provided demonstrations to CMS around DRaaS using VMware Cloud on AWS and VMware on-premises solutions [vCenter, Site-Recovery Manager, NSX]. 
           - vRealize Suite 2019 deployment for use in the ongoing automation initiative to facilitate virtual machine provisioning and day-2 activities.
             - vRA components deployed:  [vRealize] Automation, Identity Manger, Lifecyle Manger and running in Kubernetes
-            - Integrations completed:  Ansible, GitHub, GitLab, AWS, vSphere, CloudFormation, Infoblox 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+            - Integrations completed:  Ansible, GitHub, GitLab, AWS, vSphere, CloudFormation, Infoblox
+            - Created, tested, functional:  Agnostic Blueprints [multi-cloud] with pre- and post- workflows for day 2 activities that can be written in NodeJS, PowerShell, or Python.
+          - Deployed VMware Usage Meter to facilitate with the opex licensing model IHCCS has transitioned to.
+          - Ansible work primarily around facilitating the build of new devices on-prem as it pertains to vRealize
+          - Assisted with validating Nagios configuration around ESXi and the use of the Perl SDK that facilitates communication between devices and Nagios
+          - Zerto DRaaS POC developed and demoed; Provided multi-site replication, backup solution, and data resiliency that can be quickly implemented and was hypervisor and storage agnostic solution between sites. 
+          - VMware Event Broker Solution POC; Solution to monitor vSphere-based events and using an opensource function-as-a-Service module run a defined script in a language of the developers choosing that provides an action based on the vSphere event. (Example:  Host added to cluster > script ensures and sets MTU of NICs if not correct value).
+          - Work towards VxRail migration and setup in datacenter to facilitate a representative lab to production
+          - Jira, Confluence, and Slack integrations demoed
+          - vRA presented at Lunch and Learn for Leidos IHCSS Team
+          - Evangelizing agile platforms and products, informing members of learning opportunities and news around current/future products
+          - Lab work done for future technologies and POCs to improve the contract: 
+            - vSAN 
+            - VMware VM-Encryption
+            - Enterprise Password Manager 
+            - IP automation with Infoblox
+            - Nested ESXi servers for hypervisor-based testing
+            - Nagios with SDK Helpers
+            - Terraform (AWS - VMware cross platform provisioning)
+            - Jenkins integratinos to vRA 
+
+    - role: Cloud Services Engineer 
+      time: 2015 - 2019
+      company: Datbank, Baltimore, MD
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Designed, provisioned, configured and manage VMware, AWS, Cisco UCS, and storage across internal and client private and public cloud infrastructures (PaaS, IaaS, DRaaS) across multiple geographies. 
           - Bullet point
           - Bullet point
     - role: UI Developer
