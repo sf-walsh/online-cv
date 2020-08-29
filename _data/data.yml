@@ -31,7 +31,7 @@ sidebar:
 
     interests:
       - item: Running
-        link:
+        link: https://www.strava.com/athletes/13705847
 
       - item: Cycling
         link: https://www.strava.com/athletes/13705847
@@ -116,12 +116,25 @@ experiences:
 
 
     - role: Senior Secruity Engineer
-      time: 2014 - 2015
-      company: Optiv Security Inc., Elkridge, MD
+      time: 2014 - 2014
+      company: Cisco, Columbia, MD
       details: |
-        Administered and managed the Managed Security Solutions infrastructure for the SOCs and Datacenters in Maryland and Kansas.
-          - Bullet point
-          - Bullet point
+        Administered and maintained the network infrastructure and virtualization environment for multiple Cisco development teams. 
+
+    - role: Implementation Engineer
+      time: 2013 - 2013
+      company: Vodafone, UK, Ashburn, VA
+      details: |
+        Engineer responsible for writing change management proposals and implementing changes for Blue Coat proxy appliances, F5 (LTM and GTM), and general DNS record administration for large enterprise networks.  
+        Documented changes using Maximo ticketing system submitted by internal business units.  Reviewed all changes to be implemented with vendor (F5/Blue Coat) and internal engineering boards. 
+
+    - role: Senior Security Analyst
+      time: 2011 - 2013
+      company: Accuvant Inc., Hanover, MD
+      details: |
+        Specialization in enterprise security product implementation, configuration and optimization.  
+        Key roles include leveraging knowledge and experience in the use and administration of Windows and Unix/Linux environments in the implementation and troubleshooting of security solutions.  
+        Implemented and configured software and appliance-based products in large enterprises and government environments. 
 # projects:
 #     title: Projects
 #     intro: >
@@ -175,10 +188,10 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Virtualization (Vmware)
+      - name: Virtualization
         level: 98%
 
-      - name: Storage (NAS, SAN [ISCSI])
+      - name: Storage
         level: 80%
 
       - name: Cisco UCS
