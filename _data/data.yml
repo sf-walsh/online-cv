@@ -12,8 +12,8 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: sf.walsh@gmail.com
-    phone: 410 960 4256
+    email: sf.walsh[at]gmail[dot]com
+    # phone: 410 960 4256
     website: seanwalsh.dev #do not add http://
     linkedin: sean-walsh-b8235a25
     github: sf-walsh
